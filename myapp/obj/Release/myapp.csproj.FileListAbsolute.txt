@@ -1,0 +1,10 @@
+C:\Users\Filip\Desktop\orcus devopment\myapp\bin\Release\myapp.exe.config
+C:\Users\Filip\Desktop\orcus devopment\myapp\bin\Release\myapp.exe
+C:\Users\Filip\Desktop\orcus devopment\myapp\bin\Release\myapp.pdb
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.Properties.Resources.resources
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.exe
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.pdb
+C:\Users\Filip\Desktop\orcus devopment\myapp\obj\Release\myapp.Form1.resources
